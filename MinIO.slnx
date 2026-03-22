@@ -1,0 +1,19 @@
+<Solution>
+  <Folder Name="/Core/">
+    <Project Path="Files.Application/Files.Application.csproj" Id="a00df26b-2615-46b5-9dc5-0eee77757acf" />
+    <Project Path="Files.Domain/Files.Domain.csproj" Id="929c3c19-5283-4f28-bcfe-ad506bfd95f4" />
+  </Folder>
+  <Folder Name="/Infrastructure/">
+    <Project Path="Files.Persistence/Files.Persistence.csproj" Id="852b8a82-cadc-4d84-ba92-5111b298660f" />
+    <Project Path="MinIO/MinIOStorage.csproj" Id="16f7e2e9-1b4e-4561-8f74-c0cfc301938e" />
+  </Folder>
+  <Folder Name="/Presentation/">
+    <Project Path="FilesWebAPI/FilesWebAPI.csproj" Id="ff385d52-ffab-4376-ba75-c4e25f971949" />
+  </Folder>
+  <Folder Name="/Solution Items/">
+    <File Path="docker-compose.yml" />
+  </Folder>
+  <Folder Name="/Tests/">
+    <Project Path="Files.Tests/Files.Tests.csproj" Id="93ccfc0a-99d4-4620-9e71-33b097e76b9a" />
+  </Folder>
+</Solution>
