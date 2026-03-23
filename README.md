@@ -1,10 +1,3 @@
- 📁 Files Storage API
-
-[![.NET](https://img.shields.io/badge/.NET-10.0-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/download/dotnet/10.0)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![MinIO](https://img.shields.io/badge/MinIO-Latest-C72E49?style=for-the-badge&logo=minio&logoColor=white)](https://min.io/)
-[![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-CQRS-blue?style=for-the-badge)](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
-
 **API для управления файлами с хранением в MinIO**, построенный на принципах **Clean Architecture** с использованием паттерна **CQRS**.
 
 ---
