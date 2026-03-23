@@ -10,6 +10,7 @@ public class UploadFileCommandValidator : AbstractValidator<UploadFileCommand>
 
     private static readonly HashSet<string> AllowedContentTypes = new()
     {
+        // MIME стандарт
         // Изображения
         "image/jpg",
         "image/jpeg",

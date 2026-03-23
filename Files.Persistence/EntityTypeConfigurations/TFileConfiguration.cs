@@ -4,9 +4,6 @@ using Microsoft.EntityFrameworkCore.Metadata.Builders;
 
 namespace Files.Persistence.Configurations;
 
-/// <summary>
-/// Конфигурация сущности TFile для Entity Framework Core
-/// </summary>
 public class TFileConfiguration : IEntityTypeConfiguration<TFile>
 {
     public void Configure(EntityTypeBuilder<TFile> builder)
