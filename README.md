@@ -106,7 +106,7 @@ http://localhost:5000
 
 ---
 
-## 📖 API Endpoints
+## API Endpoints
 
 | Метод | Endpoint | Описание |
 |-------|----------|----------|
